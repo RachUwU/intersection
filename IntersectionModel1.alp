@@ -1667,7 +1667,7 @@ for(double size: list){
 					<Value><![CDATA[]]></Value>
 					<NumberOfIntervals>30</NumberOfIntervals>
 					<MinMaxAutodetect>false</MinMaxAutodetect>
-					<RangeMinExpression><![CDATA[1.1]]></RangeMinExpression>
+					<RangeMinExpression><![CDATA[0.9]]></RangeMinExpression>
 					<RangeMaxExpression><![CDATA[2]]></RangeMaxExpression>
 					<InitialIntervalSize><![CDATA[0.1]]></InitialIntervalSize>
 					<CalculateCDF>true</CalculateCDF>
@@ -1698,8 +1698,8 @@ for(double size: list){
 					<Value><![CDATA[]]></Value>
 					<NumberOfIntervals>20</NumberOfIntervals>
 					<MinMaxAutodetect>false</MinMaxAutodetect>
-					<RangeMinExpression><![CDATA[0.3]]></RangeMinExpression>
-					<RangeMaxExpression><![CDATA[0.8]]></RangeMaxExpression>
+					<RangeMinExpression><![CDATA[0.4]]></RangeMinExpression>
+					<RangeMaxExpression><![CDATA[0.9]]></RangeMaxExpression>
 					<InitialIntervalSize><![CDATA[0.1]]></InitialIntervalSize>
 					<CalculateCDF>true</CalculateCDF>
 					<CalculatePercentiles>false</CalculatePercentiles>
@@ -3772,7 +3772,7 @@ textQueueSouth2.setText(text);]]></Code>
 						<Parameter>
 							<Name><![CDATA[probability2]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[0.6]]></Code>
+								<Code><![CDATA[0.5]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
